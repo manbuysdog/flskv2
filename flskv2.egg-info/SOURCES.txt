@@ -1,0 +1,7 @@
+MANIFEST.in
+flskv2/flskv2.py
+flskv2.egg-info/PKG-INFO
+flskv2.egg-info/SOURCES.txt
+flskv2.egg-info/dependency_links.txt
+flskv2.egg-info/requires.txt
+flskv2.egg-info/top_level.txt
